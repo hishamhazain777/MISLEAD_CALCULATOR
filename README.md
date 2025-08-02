@@ -1,65 +1,72 @@
+
 # 🎯 Mislead Calculator
 
-**A delightfully wrong calculator that *never* gives the right answer.**
+*A web-based calculator that’s intentionally *wrong*—every time. It refuses to show you the correct answer!*
 
+---
 **Live demo:** [https://hishamhazain777.github.io/MISLEAD_CALCULATOR/](https://hishamhazain777.github.io/MISLEAD_CALCULATOR/)  
 **This README was last updated on:** `August 02, 2025`
 
----
-
-## 🔍 Table of Contents
+## 📘 Table of Contents
 
 - [About the Project](#-about-the-project)  
-- [Features](#-features)  
-- [Tech Stack](#-tech-stack)  
-- [Getting Started](#-getting-started)  
+- [🎓 Institution](#-institution)  
+- [👥 Team Pitham](#-team-pitham)  
+- [⚙️ Tech Stack](#️-tech-stack)  
+- [🛠️ Getting Started](#️-getting-started)  
   - [Prerequisites](#prerequisites)  
-  - [Installing](#installing)  
-  - [Running](#running)  
-- [Demo & Screenshots](#-demo--screenshots)  
-- [Project Structure](#-project-structure)  
-- [Credits & License](#-credits--license)  
-- [Team](#-team)  
-- [Contact](#-contact)
+  - [Installation & Use](#installation--use)  
+- [📸 Screenshots & Workflow](#️-screenshots--workflow)  
+- [📂 Project Structure](#️-project-structure)  
+- [🪧 License & Contact](#️-license--contact)
 
 ---
 
 ## 🧠 About the Project
 
-Have you ever found yourself annoyed because your calculator gives you the *correct* answer? Meet **Mislead Calculator** — the calculator that prompts, computes, and—just when you expect it—it lies. Always. In random or unpredictable ways. Because why should math always be accurate?
+Imagine having a calculator that’s *never right*, yet always *confident*. **Mislead Calculator** is a quirky, fun web app crafted with HTML, CSS, and JavaScript, designed to produce intentionally wrong math results. Whether you're calculating 3 × 3 or splitting a bill, expect confusion instead of correctness!
 
 ---
 
-## ✨ Features
+## 🎓 Institution
 
-- Returns incorrect math results—*every* time.  
-- Built with custom logic in JavaScript to miscalculate in humorous ways.  
-- Mobile-friendly design using plain HTML and CSS.  
-- No ads, no hidden fees—just gentle deceit.
+**Albertian Institute of Science & Technology (AISAT)** – Technical Campus  
+Kalamassery, Cochin University P.O., Ernakulam, Kochi – 682 022, Kerala, India
 
----
-
-## 🧱 Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks:** No frameworks — just a little bit of JavaScript magic  
-- **Tools:**  
-  - Visual Studio Code  
-  - Git & GitHub  
-  - GitHub Pages for deployment
+AISAT is a Roman Catholic Latin Christian Minority institution founded by the Archdiocese of Verapoly. Spread over 12 acres, its campus is nestled near the Cochin University of Science & Technology and national transport links. The institute offers NBA‑accredited B. Tech programs including Computer Science & Engineering and AI/ML … making it the perfect place for passion projects like ours. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🚀 Getting Started
+## 👥 Team Pitham
+
+| Role        | Member           | Affiliation                      |
+|-------------|------------------|----------------------------------|
+| Team Lead   | Shaiza Shemeer   | AISAT Engineering College, Kochi |
+| Member 2    | Muhammed Hisham  | AISAT Engineering College, Kochi |
+
+---
+
+## ⚙️ Tech Stack
+
+| Component     | Details                 |
+|--------------|--------------------------|
+| Languages     | HTML, CSS, JavaScript    |
+| Frameworks    | None (Vanilla JS only)   |
+| Tools         | Visual Studio Code, Git  |
+| Deployment    | GitHub Pages              |
+
+---
+
+## 🛠️ Getting Started
 
 ### Prerequisites
 
-No need to install anything — just a web browser is enough. The app runs entirely on the frontend.
+- Any modern browser (Chrome, Firefox, Edge, Safari).  
+- No server/backend needed — it’s completely frontend.
 
-### Installing
-
-To clone and test locally:
+### Installation & Use
 
 ```bash
-git clone https://github.com/your_username/Mislead-Calculator.git
-cd Mislead-Calculator
+git clone https://github.com/pitham/mislead-calculator.git
+cd mislead-calculator
+
