@@ -1,17 +1,17 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Mislead calculator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Pitham
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: Shaiza shemeer - AISAT
 - Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+  
 
 ### Project Description
 [2-3 lines about what your project does]
